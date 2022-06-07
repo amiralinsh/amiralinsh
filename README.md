@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiralinsh
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Electrical Engineering
+- 🌱 I’m currently studying Electrical Engineering
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me:  amiralinsh@gmail.com
 
